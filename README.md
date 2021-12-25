@@ -8,4 +8,8 @@
 
 ---
 
+Solidity, JavaScript, Truffle, Ganache.
+
+---
+
 `npm run dev`
