@@ -1,0 +1,19 @@
+{
+  "name": "myfirstcontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server -c bs-config.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/contract": "^4.4.2",
+    "bootstrap": "^5.1.3",
+    "lite-server": "^2.6.1"
+  }
+}
